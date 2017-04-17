@@ -1,8 +1,8 @@
-#Synopsis
+##Synopsis
 
 A simple seed project for Javascript, ES6 and webpack.
 
-#Running
+##Running
 Clone project then `npm install` 
 
 Once that is done `npm dev` starts the webpack-dev-server which will monitor your code for changes and hot reload.
